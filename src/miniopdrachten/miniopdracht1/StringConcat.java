@@ -1,4 +1,4 @@
-package miniopdracht1;
+package miniopdrachten.miniopdracht1;
 
 public class StringConcat {
     public static void main(String[] args) {

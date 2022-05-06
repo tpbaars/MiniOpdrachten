@@ -1,4 +1,4 @@
-package miniopdracht6;
+package miniopdrachten.miniopdracht1.miniopdracht6;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -13,8 +13,6 @@ public class App {
         String inputInAlphabeticOrder = getStringInAplhabeticOrder(input);
 
         System.out.println(inputInAlphabeticOrder);
-
-
 
 
     }

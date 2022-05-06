@@ -1,4 +1,4 @@
-package miniopdracht4;
+package miniopdrachten.miniopdracht1.miniopdracht4;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -13,7 +13,7 @@ public class ArraySort {
         }
         System.out.println(Arrays.toString(arr));
 
-        int[] arr2 = new int[]{4,3,2,1};
+        int[] arr2 = new int[]{4, 3, 2, 1};
         System.out.println(arr2);
 
         System.out.println(Arrays.toString(sortArraySmallToBig(arr2)));
@@ -21,7 +21,7 @@ public class ArraySort {
 
     public static int[] sortArraySmallToBig(int[] arr) {
         int temp = 0;
-        for (int i = 0; i < arr.length; i++){
+        for (int i = 0; i < arr.length; i++) {
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[i] > arr[j]) {
                     temp = arr[i];

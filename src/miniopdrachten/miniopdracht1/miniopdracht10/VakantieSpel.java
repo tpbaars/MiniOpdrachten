@@ -1,4 +1,4 @@
-package miniopdracht10;
+package miniopdrachten.miniopdracht1.miniopdracht10;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -35,7 +35,7 @@ public class VakantieSpel {
                 System.err.println("Dat is geen woord");
                 sc = new Scanner(System.in);
             }
-        } while(input < 5);
+        } while (input < 5);
 
     }
 

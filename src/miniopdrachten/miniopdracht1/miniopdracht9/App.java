@@ -1,4 +1,4 @@
-package miniopdracht9;
+package miniopdrachten.miniopdracht1.miniopdracht9;
 
 public class App {
 

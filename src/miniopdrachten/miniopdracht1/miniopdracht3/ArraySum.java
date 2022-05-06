@@ -1,9 +1,9 @@
-package miniopdracht3;
+package miniopdrachten.miniopdracht1.miniopdracht3;
 
 public class ArraySum {
 
     public static void main(String[] args) {
-        int[] intArray = new int[]{1,2,3,4};
+        int[] intArray = new int[]{1, 2, 3, 4};
         System.out.println(sumArray(intArray));
     }
 

@@ -1,4 +1,4 @@
-package miniopdracht8;
+package miniopdrachten.miniopdracht1.miniopdracht8;
 
 public class Speedboot extends Boot {
 

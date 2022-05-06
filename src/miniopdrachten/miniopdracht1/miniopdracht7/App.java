@@ -1,4 +1,4 @@
-package miniopdracht7;
+package miniopdrachten.miniopdracht1.miniopdracht7;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class App {
         String guess = "";
         int attempts = 0;
         System.out.println("_____");
-        while(attempts < 5 & !(guess.equals(wordToGuess))){
+        while (attempts < 5 & !(guess.equals(wordToGuess))) {
             Scanner sc = new Scanner(System.in);
             guess = sc.nextLine();
             char[] guessCharArr = guess.toCharArray();
@@ -40,7 +40,6 @@ public class App {
 
         }
     }
-
 
 
 }

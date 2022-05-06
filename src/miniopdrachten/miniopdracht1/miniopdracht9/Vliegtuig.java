@@ -1,7 +1,6 @@
-package miniopdracht9;
+package miniopdrachten.miniopdracht1.miniopdracht9;
 
-public class Vliegtuig implements Vliegend{
-
+public class Vliegtuig implements Vliegend {
 
 
     @Override

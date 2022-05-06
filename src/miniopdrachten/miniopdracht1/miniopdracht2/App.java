@@ -1,6 +1,4 @@
-package miniopdracht2;
-
-import miniopdracht2.LetterEInWordCounter;
+package miniopdrachten.miniopdracht1.miniopdracht2;
 
 public class App {
 

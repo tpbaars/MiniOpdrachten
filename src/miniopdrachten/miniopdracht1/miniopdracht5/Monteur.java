@@ -1,4 +1,4 @@
-package miniopdracht5;
+package miniopdrachten.miniopdracht1.miniopdracht5;
 
 public class Monteur {
 
